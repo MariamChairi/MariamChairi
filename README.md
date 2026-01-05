@@ -35,7 +35,5 @@
 ---
 
 <p align="center">
-
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzZmbnNmd3puczBveG9ibXNnMHZuc2kycWpuaXc5cWUzdTIxYnZyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif)
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzZmbnNmd3puczBveG9ibXNnMHZuc2kycWpuaXc5cWUzdTIxYnZyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="400" alt="Coding GIF">
 </p>
