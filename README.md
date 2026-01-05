@@ -31,3 +31,11 @@
 
 - **Continuous Learning:**  
   Self-learning modern frameworks and tools, working on practical projects, and continuously improving technical skills.
+
+--
+
+<p align="center">
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</p>
