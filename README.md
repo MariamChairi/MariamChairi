@@ -36,7 +36,7 @@
 
 <p align="center">
 
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJhcDR3MTZvcTZwZHhidTdlMHV5NXFhb3E3bzc4cnZ4OWQyNmM2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
+![Coding GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRpaHZnOWY2cDA2aHdkNHB6NnJ0emMyZjcyc2NzejM1cW05MjFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif)
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzZmbnNmd3puczBveG9ibXNnMHZuc2kycWpuaXc5cWUzdTIxYnZyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif)
 
 </p>
