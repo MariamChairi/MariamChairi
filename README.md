@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Mariam
 
-<!--
-**MariamChairi/MariamChairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Student in Computer Engineering  
+💻 FullStack Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Programming Languages:** Java, Python, C, PHP, JavaScript  
+- **Frameworks & Technologies:**  
+    Jakarta EE, Spring Boot  
+    Swing, JavaFX  
+    Flask, Django  
+    Tkinter, PyQt  
+    Android, .NET  
+  Bootstrap, Angular, React, Qwik  
+- **Databases:** MySQL, SQLite, Oracle  
+- **Operating Systems:** Linux, Windows  
+- **DevOps:** Git, Docker, CI/CD  
+ 
+---
+
+## 🎯 Interests
+
+- **Software Development:**  
+  Designing and developing efficient, scalable, and maintainable applications by following best coding practices, SOLID principles, and modular architecture.
+
+- **Innovative Technologies:**  
+  Exploring Artificial Intelligence, emerging technologies, machine learning, and cloud-based solutions.
+
+- **Continuous Learning:**  
+  Self-learning modern frameworks and tools, working on practical projects, and continuously improving technical skills.
