@@ -32,10 +32,10 @@
 - **Continuous Learning:**  
   Self-learning modern frameworks and tools, working on practical projects, and continuously improving technical skills.
 
---
+---
 
 <p align="center">
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQwMnRweXhnaGs1cHJ2d3l4bnk0YW9yOHprNWxpNmVkYnZnZjlzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif)
 
 </p>
