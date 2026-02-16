@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0ejN1YjJnZ3BlODA5cjY4aWdseG0wOTMzaG9xNHRrY3ZoNjB0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc0ejN1YjJnZ3BlODA5cjY4aWdseG0wOTMzaG9xNHRrY3ZoNjB0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Coding GIF">
 </p>
