@@ -21,7 +21,7 @@
  
 ---
 
-## 🎯 Interests
+## 🌟 Interests
 
 - **Software Development:**  
   Designing and developing efficient, scalable, and maintainable applications by following best coding practices, SOLID principles, and modular architecture.
