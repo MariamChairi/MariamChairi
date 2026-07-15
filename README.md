@@ -24,13 +24,10 @@
 ## 🌟 Interests
 
 - **Software Development:**  
-  Designing and developing efficient, scalable, and maintainable applications by following best coding practices, SOLID principles, and modular architecture.
+  Designing and developing robust, high-performance, and maintainable applications by applying software engineering best practices, SOLID principles, and modular architectures.
 
-- **Innovative Technologies:**  
-  Exploring Artificial Intelligence, emerging technologies, machine learning, and cloud-based solutions.
-
-- **Continuous Learning:**  
-  Self-learning modern frameworks and tools, working on practical projects, and continuously improving technical skills.
+- **Innovative Technologies and Continuous Learning:**  
+  Continuously expanding my skills through self-learning and by exploring emerging frameworks, modern technologies, and new development tools.
 
 ---
 
