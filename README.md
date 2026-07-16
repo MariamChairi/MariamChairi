@@ -26,7 +26,7 @@
 - **Software Development:**  
   Designing and developing robust, high-performance, and maintainable applications by applying software engineering best practices, SOLID principles, and modular architectures.
 
-- **Innovative Technologies and Continuous Learning:**  
+- **Continuous Learning and Innovative Technologies:**  
   Continuously expanding my skills through self-learning and by exploring modern technologies, emerging frameworks, and new development tools.
 
 ---
