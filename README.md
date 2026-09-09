@@ -1,6 +1,7 @@
 # Hi 👋 I'm Mariam
 
-🎓 Master’s Student in Computer Engineering  
+🔬 Researcher 
+🎓 Holder of a Master's Degree in Computer Engineering  
 💻 Full Stack Software Developer  
 
 ---
