@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mariam
 
-🔬 Researcher 
+🔬 Researcher  
 🎓 Holder of a Master's Degree in Computer Engineering  
 💻 Full Stack Software Developer  
 
